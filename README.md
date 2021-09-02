@@ -1,5 +1,3 @@
-# Hi there
-
 # Gustavo Santos Leandro
 
 ## Olá pessoal 👋
