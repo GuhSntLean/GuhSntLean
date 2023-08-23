@@ -64,10 +64,22 @@
 
 ## How to contact 📨
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:guleandro.66@gmail.com)](mailto:guleandro.66@gmail.com)
+<div aling="left">
+  
+  <a href="mailto:guleandro.66@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:guleandro.66@gmail.com"/>
+  </a>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail_Alternative-999999?style=flat-square&labelColor=999999&logo=gmail&logoColor=white&link=mailto:gu.snt.lean@gmail.com)](mailto:gu.snt.lean@gmail.com)
+  <a href="mailto:gu.snt.lean@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail_Alternative-999999?style=flat-square&labelColor=999999&logo=gmail&logoColor=white&link=mailto:gu.snt.lean@gmail.com"/>
+  </a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-santos-leandro/)](https://www.linkedin.com/in/gustavo-santos-leandro/)
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/guhsntlean/)](https://www.instagram.com/guhsntlean/)
+  <a href="https://www.linkedin.com/in/gustavo-santos-leandro/">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-santos-leandro/"/>
+  </a>
+</div>
+<!--
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:guleandro.66@gmail.com)](mailto:guleandro.66@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail_Alternative-999999?style=flat-square&labelColor=999999&logo=gmail&logoColor=white&link=mailto:gu.snt.lean@gmail.com)](mailto:gu.snt.lean@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-santos-leandro/)](https://www.linkedin.com/in/gustavo-santos-leandro/)
+-->
